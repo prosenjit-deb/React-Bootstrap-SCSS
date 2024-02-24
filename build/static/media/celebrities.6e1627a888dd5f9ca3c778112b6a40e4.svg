@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <path data-name="Path 61" d="M23.893 29.25H21.7v-4.687c0-2.588-2.452-4.684-5.473-4.687H9.662c-3.021 0-5.47 2.1-5.473 4.688v4.686H2v-4.687C2 20.94 5.433 18 9.662 18h6.568c4.23 0 7.657 2.94 7.662 6.563z" transform="translate(2 -1.125)" style="fill:#979797"/>
+    <path data-name="Path 63" d="M11.563 3.875a4.688 4.688 0 1 1-4.688 4.688 4.688 4.688 0 0 1 4.688-4.687m0-1.875a6.563 6.563 0 1 0 6.563 6.563A6.562 6.562 0 0 0 11.563 2z" transform="translate(3 -.125)" style="fill:#979797"/>
+    <path data-name="&lt;Transparent Rectangle&gt;" style="fill:none" d="M0 0h30v30H0z"/>
+</svg>

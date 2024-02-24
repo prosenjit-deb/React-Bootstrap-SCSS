@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <path data-name="&lt;Transparent Rectangle&gt;" style="fill:none" d="M0 0h30v30H0z"/>
+    <path data-name="Rectangle 234" transform="translate(21 16)" style="fill:#979797" d="M0 0h2v2H0z"/>
+    <path data-name="Path 1209" d="M26.663 7.743H3.9V4.9h20.866V3H3.9A1.9 1.9 0 0 0 2 4.9v19.92a1.9 1.9 0 0 0 1.9 1.9h22.763a1.9 1.9 0 0 0 1.9-1.9V9.64a1.9 1.9 0 0 0-1.9-1.897zM3.9 24.817V9.64h22.763v2.846h-7.589a1.9 1.9 0 0 0-1.9 1.9v5.691a1.9 1.9 0 0 0 1.9 1.9h7.589v2.846zm22.763-10.434v5.691h-7.589v-5.691z" transform="translate(-.28 -.331)" style="fill:#979797"/>
+</svg>

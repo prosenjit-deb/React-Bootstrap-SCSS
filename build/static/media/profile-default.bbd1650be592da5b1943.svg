@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221" height="221" viewBox="0 0 221 221">
+    <defs>
+        <clipPath id="3l7q637rfb">
+            <circle data-name="Shi Ling Tan 250" cx="85" cy="85" r="85" transform="translate(526 206)" style="fill:#d8d8d8"/>
+        </clipPath>
+        <filter id="tbbmzulpia" x="0" y="0" width="221" height="221" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="8.5" result="blur"/>
+            <feFlood flood-opacity=".102"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#tbbmzulpia)">
+        <circle data-name="Shi Ling Tan 250" cx="85" cy="85" r="85" transform="translate(25.5 22.5)" style="fill:#d9d9d9"/>
+    </g>
+    <g data-name="Mask Group 15" style="clip-path:url(#3l7q637rfb)" transform="translate(-500.5 -183.5)">
+        <path data-name="Icon awesome-user-alt" d="M68.434 76.989A38.494 38.494 0 1 0 29.94 38.494a38.5 38.5 0 0 0 38.494 38.495zm34.217 8.554H87.922a46.534 46.534 0 0 1-38.975 0h-14.73A34.215 34.215 0 0 0 0 119.76v4.277a12.835 12.835 0 0 0 12.831 12.831h111.206a12.835 12.835 0 0 0 12.831-12.831v-4.277a34.215 34.215 0 0 0-34.217-34.217z" transform="translate(542.566 239.26)" style="fill:#fff"/>
+    </g>
+</svg>

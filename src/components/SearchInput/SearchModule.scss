@@ -1,0 +1,26 @@
+.s-input{
+border-radius: 5px;
+border: solid 1px #ccc;
+background-color: #fff;
+position: relative;
+&::before{
+        content: "";
+        width: 20px;
+        height: 20px;
+        background: url(../../assets/images/header/search.svg) no-repeat;
+        position: absolute;
+        left: 12px;
+        top: 50%;
+        transform: translateY(-50%);
+        }
+        &-field{
+        padding: 10px 15px 9px 40px;
+        border: none;
+        border-radius: 5px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        text-align: left;
+        color: #212121;
+        }
+}

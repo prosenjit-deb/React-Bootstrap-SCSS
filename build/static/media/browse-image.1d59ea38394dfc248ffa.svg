@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68.577" height="59.175" viewBox="0 0 68.577 59.175">
+    <g data-name="Group 105">
+        <g data-name="Rectangle 185" style="stroke-linecap:round;stroke-dasharray:4;stroke:#707070;fill:none">
+            <rect width="43.523" height="43.523" rx="8" style="stroke:none"/>
+            <rect x=".5" y=".5" width="42.523" height="42.523" rx="7.5" style="fill:none"/>
+        </g>
+        <g data-name="Group 104">
+            <path data-name="Path 130" d="M11342.812 2700.576h8.09" transform="translate(-11282.323 -2678.154)" style="stroke:#707070;fill:none"/>
+            <path data-name="Path 131" d="m11343.08 2698.186-2.116 2.863 2.116 2.489" transform="translate(-11282.592 -2678.502)" style="stroke:#707070;fill:none"/>
+        </g>
+        <path data-name="Path 132" d="M11336.1 2736.118c3.857 1.742 15.06-2.24 14.188-10.7a41.935 41.935 0 0 0-6.224-17.425c-1.369-2.115-6.223-.747-3.484 4.979.746 1.618-6.348-14.687-7.592-2.489 1.617 2.863 3.733 6.472 3.733 6.472l-5.726-9.957s-4.854-1.867-3.858 3.485c2.116 3.858 4.605 9.21 4.605 9.21l-8.588-17.176s-6.472-3.112-4.979 3.734c1.12 2.116 8.961 15.931 8.961 15.931s-7.093-7.468-10.952 0c-.373 1.245 9.087 4.6 11.7 7.094s8.216 6.842 8.216 6.842z" transform="translate(-11286.195 -2677.976)" style="fill:#fff;stroke:#707070"/>
+    </g>
+</svg>

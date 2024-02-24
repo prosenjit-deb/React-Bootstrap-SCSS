@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <circle data-name="Ellipse 24" cx="2" cy="2" r="2" transform="translate(6 14)"/>
+    <circle data-name="Ellipse 25" cx="2" cy="2" r="2" transform="translate(14 14)"/>
+    <circle data-name="Ellipse 26" cx="2" cy="2" r="2" transform="translate(22 14)"/>
+    <path style="fill:none" d="M0 0h32v32H0z"/>
+</svg>

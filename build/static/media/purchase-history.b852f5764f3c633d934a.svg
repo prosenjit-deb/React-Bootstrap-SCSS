@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+    <g data-name="shopping--bag (1)">
+        <path data-name="Path 1208" d="M28.5 11.821a.963.963 0 0 0-.752-.372h-5.943V7.192A3.087 3.087 0 0 0 18.836 4H12.9a3.087 3.087 0 0 0-2.972 3.192v4.256H3.99a.961.961 0 0 0-.758.366 1.12 1.12 0 0 0-.232.858L4.861 25.6a2.028 2.028 0 0 0 1.98 1.809h18.072a2.028 2.028 0 0 0 1.98-1.809l1.841-12.928a1.119 1.119 0 0 0-.234-.851zM11.908 7.192a1.029 1.029 0 0 1 .99-1.064h5.939a1.029 1.029 0 0 1 .99 1.064v4.256h-7.919zM24.913 25.28H6.82l-1.673-11.7h21.439z" transform="translate(-1 -1.01)" style="fill:#979797"/>
+        <path data-name="&lt;Transparent Rectangle&gt;" style="fill:none" d="M0 0h31v31H0z"/>
+    </g>
+    <path data-name="Path 1210" d="M6.334 0A6.334 6.334 0 1 1 0 6.334 6.334 6.334 0 0 1 6.334 0z" transform="translate(17.4 12.333)" style="fill:#fff"/>
+    <path data-name="Path 1206" d="M16.861 11.993 15 10.132V7h.666v2.856l1.664 1.668z" transform="translate(8.615 8.482)" style="fill:#979797"/>
+    <path data-name="Path 1207" d="M7.716 2a5.691 5.691 0 0 0-4.082 1.726V2h-.817v3.266h3.266V4.45H4.074a4.9 4.9 0 1 1-1.257 3.266H2A5.716 5.716 0 1 0 7.716 2z" transform="translate(16.019 10.952)" style="fill:#979797"/>
+    <path data-name="&lt;Transparent Rectangle&gt;" transform="translate(17 12)" style="fill:none" d="M0 0h13v13H0z"/>
+</svg>

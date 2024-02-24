@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <circle data-name="Ellipse 10" cx="3" cy="3" r="3" transform="translate(9 9)" style="fill:#283663"/>
+    <path data-name="Path 33" d="M23.455 12.995a12.517 12.517 0 0 0-11.2-8 12.518 12.518 0 0 0-11.21 8 .75.75 0 0 0 0 .51 12.517 12.517 0 0 0 11.2 8 12.518 12.518 0 0 0 11.205-8 .75.75 0 0 0 .005-.51zm-11.205 5.13a4.875 4.875 0 1 1 4.875-4.875 4.875 4.875 0 0 1-4.875 4.875z" transform="translate(-.25 -1.25)" style="fill:#283663"/>
+    <path data-name="&lt;Transparent Rectangle&gt;" style="fill:none" d="M0 0h24v24H0z"/>
+</svg>

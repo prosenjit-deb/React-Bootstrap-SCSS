@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="233" height="49" viewBox="0 0 233 49">
+    <defs>
+        <filter id="bh895aedja" x="4.5" y="0" width="49" height="49" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="5.5" result="blur"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="04r0a0a32b" x="178.5" y="0" width="49" height="49" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="5.5" result="blur-2"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 9782">
+        <g data-name="Group 9781">
+            <path data-name="Rectangle 592" transform="translate(0 18.5)" style="fill:#e5e5e5" d="M0 0h233v5H0z"/>
+            <path data-name="Rectangle 593" transform="translate(29 18.5)" style="fill:#283663" d="M0 0h173v5H0z"/>
+        </g>
+        <g style="filter:url(#bh895aedja)">
+            <circle data-name="Ellipse 40" cx="8" cy="8" r="8" transform="translate(21 13.5)" style="fill:#fff"/>
+        </g>
+        <g style="filter:url(#04r0a0a32b)">
+            <circle data-name="Ellipse 41" cx="8" cy="8" r="8" transform="translate(195 13.5)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,44 @@
+.footer{
+    border-top: solid 1px #ececec;
+    padding: 50px 90px;
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: space-between;
+    .logo {
+        width: 110px;
+        margin: 0;
+    }
+    &-nav{
+        ul{
+            display: flex;
+            flex-flow: wrap;
+            align-items: center;
+            gap: 0 35px;
+            li{
+                a{
+                    font-size: 14px;
+                    font-weight: 500;
+                    color: #242c44;
+                    text-decoration: none;
+                    &:hover{
+                        color: #283663;
+                    }
+                }
+            }
+        }
+    }
+    .s-icon{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 0 12px;
+        li{
+            width: 40px;
+            height: 40px;
+            a{
+                display: flex;
+            }
+        }
+    }
+}
